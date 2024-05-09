@@ -1,5 +1,5 @@
 git nice
-bug is here
+bug is over
 branch dev test
 branch feature1 test
 add merge
